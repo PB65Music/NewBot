@@ -59,7 +59,7 @@ __HELP__ = f"""
 /restart 
 - Restart Bot [All downloads, cache, raw files will be cleared too]. 
 
-- ᴘᴏᴡᴇʀᴅ ʙʏ 😍 ʀᴏᴄᴋs ᴀɴᴅ @AsadSupport.
+- ᴘᴏᴡᴇʀᴅ ʙʏ 😍 🅐𝖚𝖏𝖑𝖆 ᴀɴᴅ @Urban_Chat_Group.
 """
 
 
