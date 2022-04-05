@@ -34,7 +34,7 @@ __HELP__ = f"""
 
 `/setassistant` [ᴀss ɴᴜᴍʙᴇʀ ᴏʀ ʀᴀɴᴅᴏᴍ]
 - sᴇᴛ ᴀ ᴀssɪsᴛᴀɴᴛ ᴀᴄᴄᴏᴜɴᴛ ғᴏʀ ᴄʜᴀᴛ.
-- ᴘᴏᴡᴇʀᴅ ʙʏ 😍 ʀᴏᴄᴋs ᴀɴᴅ @AsadSupport
+- ᴘᴏᴡᴇʀᴅ ʙʏ 😍 🅐𝖚𝖏𝖑𝖆 ᴀɴᴅ @Urban_Chat_Group
 """
 
 
