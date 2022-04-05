@@ -1,7 +1,7 @@
 {
-  "name": "Alexa Music",
-  "description": "ᴀʟᴇxᴀ ɪs ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜsɪᴄ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴏᴘᴇʀ ғᴜɴᴄᴛɪᴏɴs ᴡʀɪᴛᴛᴇɴ ɪɴ ᴘʏᴛʜᴏɴ ᴡɪᴛʜ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴘʏ-ᴛɢᴄᴀʟʟs.",
-  "logo": "https://telegra.ph/file/83a547c997953a4d75d87.jpg",
+  "name": "Aujla Music",
+  "description": "ᴀujla ɪs ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜsɪᴄ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴏᴘᴇʀ ғᴜɴᴄᴛɪᴏɴs ᴡʀɪᴛᴛᴇɴ ɪɴ ᴘʏᴛʜᴏɴ ᴡɪᴛʜ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴘʏ-ᴛɢᴄᴀʟʟs.",
+  "logo": "https://te.legra.ph/file/d2a66ad7a46e72b97b815.jpg",
   "keywords": [
   "python3",
   "telegram"
@@ -25,7 +25,7 @@
     },
     "DURATION_LIMIT": {
       "description": "Duration Limit for Playout (In Mins).. Example: 900",
-      "value": "900",
+      "value": "9999",
       "required": true
     },
     "MONGO_DB_URI": {
@@ -35,22 +35,22 @@
     },
     "MUSIC_BOT_NAME": {
       "description": "A name for your Music Bot.",
-      "value": "Asad_Music_Bot",
+      "value": "@Urban_Chat_Group",
       "required": true
     },
     "SUPPORT_CHANNEL": {
       "description": "Support Channel Link if you have any, Leave blank if no support. Your link must start with https://t.me/",
-      "value": "AsadSupport",
+      "value": "Punjabi_Status_Mania",
       "required": false
     },
     "SUPPORT_GROUP": {
       "description": "Support Group Link if you have any, Leave blank if no support. Your link must start with https://t.me/",
-      "value": "Shayri_Music_Lovers",
+      "value": "Urban_Chat_Group",
       "required": false
     },
     "OWNER_ID": {
       "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-      "value": "1342820594",
+      "value": "5106141022",
       "required": true
     },
     "STRING_SESSION1": {
@@ -90,12 +90,12 @@
     },
     "LOG_GROUP_ID": {
       "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Use only Group. Please don't use Channel ID.",
-      "value": "-1001717283097",
+      "value": "-1001691687325",
       "required": true
     },
     "SUDO_USERS": {
       "description": "The user id(s) of user(s) whom you would like to add as a SUDO. Multiple values shall be seperated with a space.",
-      "value": "",
+      "value": "5134124821",
       "required": true
     },
     "LOG_SESSION": {
@@ -105,7 +105,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "If you dont know this, Leave as it is",
-      "value": "https://github.com/jankarikiduniya/AlexaMusicBot",
+      "value": "https://github.com/PB65Music/NewBot",
       "required": true
     },
     "UPSTREAM_BRANCH": {
