@@ -43,7 +43,7 @@ __HELP__ = """
 - Check the Stats of Bot.
 - Gets the stat of MongoDb , Assistant, System etc.
 
-- ᴘᴏᴡᴇʀᴅ ʙʏ 😍 ʀᴏᴄᴋs ᴀɴᴅ @AsadSupport.
+- ᴘᴏᴡᴇʀᴅ ʙʏ 😍 🅐𝖚𝖏𝖑𝖆 ᴀɴᴅ @Urban_Chat_Group.
 """
 
 
