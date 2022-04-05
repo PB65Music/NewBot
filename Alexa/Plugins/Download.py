@@ -30,7 +30,7 @@ __HELP__ = """
 `/ungban` [ᴜsᴇʀɴᴀᴍᴇ ᴏʀ ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴜsᴇʀ]
 - ʀᴇᴍᴏᴠᴇ ᴀ ᴜsᴇʀ ғʀᴏᴍ ʙᴏᴛ's ɢʙᴀɴ ʟɪsᴛ.
 
-- ᴘᴏᴡᴇʀᴅ ʙʏ 😍 ʀᴏᴄᴋs ᴀɴᴅ @AsadSupport.
+- ᴘᴏᴡᴇʀᴅ ʙʏ 😍 🅐𝖚𝖏𝖑𝖆 ᴀɴᴅ @Urban_Chat_Group.
 """
 
 
@@ -132,7 +132,7 @@ async def boom(_, CallbackQuery):
 🎥**ᴄʜᴀɴɴᴇʟ ɴᴀᴍᴇ:** {channel}
 🔗**ᴠɪᴅᴇᴏ ʟɪɴᴋ:** [Link]({yturl})
 
-⚡️ **ʏᴏᴜᴛᴜʙᴇ ɪɴʟɪɴᴇ ᴅᴏᴡɴʟᴏᴀᴅ ᴘᴏᴡᴇʀᴇᴅ ʙʏ** @AsadSupport"""
+⚡️ **ʏᴏᴜᴛᴜʙᴇ ɪɴʟɪɴᴇ ᴅᴏᴡɴʟᴏᴀᴅ ᴘᴏᴡᴇʀᴇᴅ ʙʏ** @Urban_Chat_Group"""
     filext = "%(title)s.%(ext)s"
     userdir = os.path.join(os.getcwd(), "downloads", str(user_id))
     if not os.path.isdir(userdir):
