@@ -40,7 +40,7 @@ __HELP__ = """
 /delgroupplaylist
 - Delete any saved music in your group's playlist [Requires Admin Rights.]
 
-- ᴘᴏᴡᴇʀᴅ ʙʏ 😍 ʀᴏᴄᴋs ᴀɴᴅ @AsadSupport.
+- ᴘᴏᴡᴇʀᴅ ʙʏ 😍 🅐𝖚𝖏𝖑𝖆 ᴀɴᴅ @Urban_Chat_Group.
 """
 
 
