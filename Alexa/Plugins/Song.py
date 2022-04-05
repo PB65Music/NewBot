@@ -21,7 +21,7 @@ __HELP__ = """
 /song [Youtube URL or Search Query] 
 - Download the particular query in audio or video format.
 
-- ᴘᴏᴡᴇʀᴅ ʙʏ 😍 ʀᴏᴄᴋs ᴀɴᴅ @AsadSupport.
+- ᴘᴏᴡᴇʀᴅ ʙʏ 😍 🅐𝖚𝖏𝖑𝖆 ᴀɴᴅ @Urban_Chat_Group.
 
 
 """
