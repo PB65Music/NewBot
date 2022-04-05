@@ -51,7 +51,7 @@ Only for Sudo Users.
 /clean
 - Clean Temp Files and Logs.
 
-- ᴘᴏᴡᴇʀᴅ ʙʏ 😍 ʀᴏᴄᴋs ᴀɴᴅ @AsadSupport.
+- ᴘᴏᴡᴇʀᴅ ʙʏ 😍 🅐𝖚𝖏𝖑𝖆 ᴀɴᴅ @Urban_Chat_Group.
 """
 # Add Sudo Users!
 
